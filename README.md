@@ -1,0 +1,2 @@
+# based-on-convolutional-neural-network-clothing-classification
+使用pytorch，torchvision，matplotlib，利用交叉熵损失函数，SGD优化器，LeNet卷积神经网络，AlexNet卷积神经网络，基于FashionMNIST并利用GPU加速训练，对衣服图像进行分类，并绘制折线图展示每轮次训练和测试的loss和accuracy
